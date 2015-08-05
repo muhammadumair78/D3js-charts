@@ -2,3 +2,9 @@
 path.domain {
 	opacity:0;
 }
+
+path.area{
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: #A3CCEF;
+}
